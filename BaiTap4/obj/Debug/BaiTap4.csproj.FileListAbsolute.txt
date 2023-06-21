@@ -1,0 +1,8 @@
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\bin\Debug\BaiTap4.exe.config
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\bin\Debug\BaiTap4.exe
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\bin\Debug\BaiTap4.pdb
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\obj\Debug\BaiTap4.csproj.AssemblyReference.cache
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\obj\Debug\BaiTap4.csproj.SuggestedBindingRedirects.cache
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\obj\Debug\BaiTap4.csproj.CoreCompileInputs.cache
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\obj\Debug\BaiTap4.exe
+D:\HB-Academy\Baitap\Baitapbuoi2\BaiTap4\obj\Debug\BaiTap4.pdb
